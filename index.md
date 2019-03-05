@@ -12,6 +12,7 @@ A smart mirror that recommends clothing for every occasion.
 2.Checks how good the combination is.
 ```
 ### Pictures
+![alt text](blob:https://web.whatsapp.com/3176e37c-d103-419c-a95b-94e501240875)
 
 
 
