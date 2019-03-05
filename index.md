@@ -2,7 +2,7 @@
 
 ​
 
-You can see our current projects on our [github](https://github.com/team-byteMe) profile. 
+You can see our github profile by clicking on the top right corner. 
 
 ​
 
