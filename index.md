@@ -1,10 +1,17 @@
 # Welcome to ByteMe's official website
 
+​
+
 You can see our current projects on our [github](https://github.com/team-byteMe) profile. 
+
+​
 
 ## DressMe
 
+​
+
 A smart mirror that recommends clothing for every occasion.
+​
 
 ```markdown
 ### Features
@@ -12,7 +19,11 @@ A smart mirror that recommends clothing for every occasion.
 2.Checks how good the combination is.
 ```
 ### Pictures
-![alt text](blob:https://web.whatsapp.com/3176e37c-d103-419c-a95b-94e501240875)
+![alt text](0b9699a3-f97f-406d-bb5a-b577835747cf.jpeg)  ![alt text](48f2a5cb-cd97-4bec-bc12-800b09ff19a8.jpeg)
+
+
+​
+
 
 
 
