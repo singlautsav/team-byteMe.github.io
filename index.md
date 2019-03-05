@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to ByteMe's official website
 
-You can use the [editor on GitHub](https://github.com/team-byteMe/team-byteMe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can see our current projects on our [github](https://github.com/team-byteMe) profile. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### DressMe
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A smart mirror that recommends clothing for every occasion.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+#### Features
+-**See recommended clothing for an occasion on the basis of past collection of photos** 
+-**verifies the combination of the clothing**
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/team-byteMe/team-byteMe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
