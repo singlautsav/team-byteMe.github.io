@@ -8,5 +8,5 @@ A smart mirror that recommends clothing for every occasion.
 
 ```markdown
 #### Features
-See recommended clothing for an occasion on the basis of past collection of photos 
-Checks how good the combination is
+1.See recommended clothing for an occasion on the basis of past collection of photos.
+2.Checks how good the combination is
