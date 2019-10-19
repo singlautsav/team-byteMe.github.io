@@ -1,38 +1,33 @@
-## Welcome to GitHub Pages
+# Welcome to ByteMe's official website
+​
+You can see our github repositories by clicking on the top right corner. 
+​
 
-You can use the [editor on GitHub](https://github.com/team-byteMe/team-byteMe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## DressMe
+​
+A smart mirror that recommends clothing for every occasion. It analyzes the clothes that you are wearing, and tells you if the color combination is an appropriate matches. Fret not the color suggestions are guided by a complete intensive research.
+​
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Features
 
-### Markdown
+1. See recommended clothing for an occasion on the basis of past collection of photos.    
+2. Checks how good the combination is.
+3. The people you wore it with last time.
+4. Add your new dresses to our database.
+5. Save images and have them uploaded to googles API.
+6. many more coming sooon.
+P.S. We're accepting feature request and also GOOGLE CLASSROOM in next update.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Pictures
 
-```markdown
-Syntax highlighted code block
+![alt text](0b9699a3-f97f-406d-bb5a-b577835747cf.jpeg)  
 
-# Team-ByteMe
+![alt text](48f2a5cb-cd97-4bec-bc12-800b09ff19a8.jpeg)
 
 
-## Header 2
-
-## Projects
-
-1. DressMe
+## Other Projects
 2. SynthMe
 3. TrimMe
+=======
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/team-byteMe/team-byteMe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
